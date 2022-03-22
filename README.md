@@ -12,7 +12,7 @@
 ![Detection](screenshoots/startingdilter.png)
 
 
-	still, there is a lot of events 804 related to that website so we should 
+	still, there is a lot of events related to that website so we should 
 	narrow our search by adding a filter to choose the stream of data we need to 
 	look at.
 
